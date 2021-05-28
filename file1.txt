@@ -8,8 +8,10 @@
 
 <script>
 
-document.getElementById("demo").innerHTML = "edited locally";
-//added this line of code locally
+
+document.getElementById("demo").innerHTML = "edited by a collaborator";
+//added this line of code 
+
 
 
 </script>
