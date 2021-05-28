@@ -10,7 +10,7 @@
 
 
 document.getElementById("demo").innerHTML = "edited by a collaborator";
-//added this line of code 
+//added this line 
 
 
 
