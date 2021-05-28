@@ -8,8 +8,8 @@
 
 <script>
 
-document.getElementById("demo").innerHTML = 5 + 6;
-//added this line of code 
+document.getElementById("demo").innerHTML = "edited locally";
+//added this line of code locally
 
 
 </script>
