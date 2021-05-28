@@ -9,9 +9,12 @@
 <script>
 
 
-document.getElementById("demo").innerHTML = "edited by a collaborator";
-//added this line of code 
+document.getElementById("demo").innerHTML = "edited by a editor";
 
+
+a
+b
+c
 
 
 </script>
