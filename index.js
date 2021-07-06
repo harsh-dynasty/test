@@ -3,7 +3,7 @@
     function loadZendeskChat(callback) {
         var zdscript = document.createElement('script');
         zdscript.setAttribute('id', 'ze-snippet');
-        zdscript.src = 'https://static.zdassets.com/ekr/snippet.js?key=XXX-XXX-XXX-XXX';
+        zdscript.src = 'https://static.zdassets.com/ekr/snippet.js?key=43b6a406-7c2a-4b50-a839-470898652d34';
         (document.getElementsByTagName('body')[0]).appendChild(zdscript);
 
         window.zdonload = setInterval(function () {
